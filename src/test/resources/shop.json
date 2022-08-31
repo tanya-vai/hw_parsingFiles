@@ -1,0 +1,14 @@
+{
+  "name": "Sosedi",
+  "departmentQuantity": 1032,
+  "locations": [
+    "Minsk",
+    "Grodno",
+    "Vitebsk"
+  ],
+  "isActive": true,
+  "entityData": {
+    "phone": "+375447645607",
+    "inn": 38947389274810
+  }
+}
